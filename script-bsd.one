@@ -1,0 +1,6 @@
+cat > /dev/stdout << END
+# Install the following
+pkg_add nvim
+pkg_add git
+pkg_add curl
+END
